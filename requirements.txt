@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+python-dotenv
+SQLAlchemy
+pandas
+jdatetime
+openpyxl
